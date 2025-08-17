@@ -1,4 +1,4 @@
-Este repositório contém o código-fonte, experimentos e resultados do meu Trabalho de Conclusão de Curso (TCC), 
+Este repositório contém o código-fonte, do meu Trabalho de Conclusão de Curso (TCC), 
 que teve como objetivo desenvolver um classificador de qualidade de manobras de RCP (ressuscitação cardiopulmonar) a partir de dados processados com técnicas de machine learning e deep learning.
 O projeto buscou criar um modelo computacional capaz de avaliar e classificar a execução da RCP a partir de sinais e dados temporais, auxiliando em treinamentos, pesquisas acadêmicas e suporte educacional na área da saúde.
 
