@@ -8,7 +8,7 @@ Bibliotecas principais:
 YOLO e MediaPipe (visão computacional)
 Scikit-learn (modelagem clássica de ML)
 Optuna (otimização de parametros)
-TensorFlow / Keras (deep learning)
+Pytorch (deep learning)
 Pandas & NumPy (manipulação de dados)
 Matplotlib & Seaborn (visualização de resultados)
 
